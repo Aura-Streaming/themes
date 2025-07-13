@@ -1,0 +1,11 @@
+/* Developer overrides go here */
+/* You can use any standard CSS with Aura's class structure */
+
+.button-primary {
+  background-color: var(--aura-accent);
+  border-radius: var(--aura-radius);
+}
+
+.sidebar {
+  background: var(--aura-card);
+}
