@@ -1,8 +1,5 @@
-/* Developer overrides go here */
-/* You can use any standard CSS with Aura's class structure */
-
 body {
-  background: var(--bg);
+  background: var(--background);
   color: var(--text);
 }
 
