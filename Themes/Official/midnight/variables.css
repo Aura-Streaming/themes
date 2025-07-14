@@ -1,15 +1,15 @@
 :root {
-  --aura-bg: #121212;
-  --aura-text: #ffffff;
-  --aura-accent: #1db954;
-  --aura-hover: #1e1e1e;
-  --aura-active: #282828;
-  --aura-card: #181818;
-  --aura-border: #333333;
+  --bg: #121212;
+  --text: #ffffff;
+  --accent: #7B68EE;
+  --hover: #7c68eeb0;
+  --active: #282828;
+  --card: #181818;
+  --border: #333333;
 
-  --aura-font-main: Inter, sans-serif;
-  --aura-font-mono: JetBrains Mono, monospace;
+  --font-main: Inter, sans-serif;
+  --font-mono: JetBrains Mono, monospace;
 
-  --aura-radius: 10px;
-  --aura-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  --radius: 10px;
+  --shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
